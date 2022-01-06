@@ -14,4 +14,15 @@ This project includes data and source code of our Plasmodium parasite diagnosis 
 > * Each cell will permit to generate a set of images and save it into a specific directory in "data_malaria/". The tree structure of this directory must be respected. For example, the cell "Parasite Segmentation: binary mask generation" will save a set of images corresponding to binary masks into a folder named "predict". For this reason an empty folder named predict must be created manually.
 > * Google Colab plateform with Tensorflow 1.15.0 (read requirements.txt file for more details) my be exploited to run the code. In this case "malaria_data/" directory must be uploaded into the Google Colab session. 
 
+# Team
+**Project leaders:**
 
+> * Halim Benhabiles, JUNIA, IEMN CNRS Lille, halim.benhabiles@junia.com
+> * Ziheng Yang, JUNIA, IEMN CNRS Lille, ziheng.yang@junia.com
+
+**Contributors:**
+
+> * Karim Hammoudi, Université de Haute-Alsace, IRIMAS
+> * Feryal Windal, JUNIA, IEMN CNRS Lille
+> * Ruiwen He, JUNIA, IEMN CNRS Lille
+> * Dominique Collard, LIMMS/CNRS-IIS, IRL 2820, The University of Tokyo, Lille, France
