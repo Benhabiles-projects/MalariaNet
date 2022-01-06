@@ -11,8 +11,8 @@ This project includes data and source code of our Plasmodium parasite diagnosis 
 
 **Notes:**
 > * Code in "MalariaDiagnosisAssistance.ipynb" have to be run cell by cell to generate required data for performing intermediate steps. 
-> * The directory "malaria_data/" includes two samples of tests "dataset_1" and "dataset_2". The code "MalariaDiagnosisAssistance.ipynb" is setup to run on "dataset_2/test". To run it on "dataset_1/test", just replace in each cell the "dataset_2" word by "dataset_1"  
-> * Each cell will permit to generate a set of images and save it into a specific directory in "test/". The tree structure of this directory must be respected. For example, the cell "Parasite Segmentation: binary mask generation" will save a set of images corresponding to binary masks into a folder named "predict". For this reason an empty folder named predict must be created manually inside "test/".
+> * The directory "malaria_data/" includes two samples of tests "dataset_1" and "dataset_2". The code "MalariaDiagnosisAssistance.ipynb" is setup to run by default on "dataset_2/test". To run it on "dataset_1/test", just replace in each cell the "dataset_2" word by "dataset_1"  
+> * Each cell will permit to generate a set of images and save it into a specific directory in "test/". The tree structure of this directory and "malaria_data/" must be respected. For example, the cell "###Parasite Segmentation: binary mask generation###" will save a set of images corresponding to binary masks into a folder named "predict". For this reason an empty folder named predict must be created manually inside "test/".
 > * Google Colab plateform with Tensorflow 1.15.0 (read **Requirements.txt** file for more details) my be exploited to run the code. In this case "malaria_data/" directory must be uploaded into the Google Colab session. 
 
 # Team
