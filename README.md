@@ -16,7 +16,7 @@ This project includes data and source code of our Plasmodium parasite diagnosis 
 > * Google Colab plateform with Tensorflow 1.15.0 (read **Requirements.txt** file for more details) could be exploited to run the code. In this case "malaria_data/" directory must be uploaded into the Google Colab session. 
 
 # Datasets
-The framework has been tested on 6 public datasets (dataset_1 to dataset_6). Details and references of these datasets are provided in Table 1 of the article referenced below. The samples provided in this repositroy namley "dataset_1/test" and "dataset_2/test" correspond to a small part of dataset_1 and dataset_2 referenced in the article.
+The framework has been tested on 6 public datasets (dataset_1 to dataset_6). Details and references of these datasets are provided in Table 1 of the article referenced below. The samples provided in this repository namley "dataset_1/test" and "dataset_2/test" correspond to a small part of dataset_1 and dataset_2 referenced in the article.
 
 # Team
 **Project leaders:**
