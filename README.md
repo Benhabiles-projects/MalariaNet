@@ -28,6 +28,6 @@ This project includes data and source code of our Plasmodium parasite diagnosis 
 > * Dominique Collard, LIMMS/CNRS-IIS, IRL 2820, The University of Tokyo, Lille, France
 
 # How to cite this work?
-Yang, Z., Benhabiles, H., Hammoudi, K. et al. A generalized deep learning-based framework for assistance to the human malaria diagnosis from microscopic images. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-021-06604-4
+Yang, Z., Benhabiles, H., Hammoudi, K. et al. A generalized deep learning-based framework for assistance to the human malaria diagnosis from microscopic images. Neural Computing and Applications, Springer (2021). https://doi.org/10.1007/s00521-021-06604-4
 
 
