@@ -3,7 +3,8 @@ A generalized deep learning-based framework for assistance to the human malaria 
 
 This project includes data and source code of our Plasmodium parasite diagnosis framework. The framework is based on segmentation and classification approches to analyse the  parasite from microscopic images of thin blood smear. The developped approaches exploits deep learning techniques to characterize the parasite shape and classifiy it among fours specises Falciparum, Malaria, Ovale and Vivax.
 
-![image](https://user-images.githubusercontent.com/86927146/148984116-684696d5-c8f8-4761-9509-b360a7bdc506.png)
+![image](https://user-images.githubusercontent.com/86927146/148984323-ce2b373f-44bc-411c-b5b1-d931350381ea.png) *Fig. 1 Overview of the proposed framework. Published first in [1]*
+
 
 
 # How to use the code?
@@ -35,6 +36,6 @@ The framework has been tested on 6 public datasets (dataset_1 to dataset_6). Det
 > * Dominique Collard, LIMMS/CNRS-IIS, IRL 2820, The University of Tokyo, Lille, France
 
 # How to cite this work?
-Yang, Z., Benhabiles, H., Hammoudi, K. et al. A generalized deep learning-based framework for assistance to the human malaria diagnosis from microscopic images. Neural Computing and Applications, Springer (2021). https://doi.org/10.1007/s00521-021-06604-4
+[1] Yang, Z., Benhabiles, H., Hammoudi, K. et al. A generalized deep learning-based framework for assistance to the human malaria diagnosis from microscopic images. Neural Computing and Applications, Springer (2021). https://doi.org/10.1007/s00521-021-06604-4
 
 
